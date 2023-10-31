@@ -1,0 +1,6 @@
+numpy
+matplotlib
+Pillow
+pandas
+tqdm
+scikit-learn
